@@ -1,16 +1,16 @@
  categories:
-  - keyword: high
+  - keyword: ui
     label:
-      name: High
-      color: CC0000
-      description: High priority
-  - keyword: medium
+      name: 'UI :desktop_computer:' 
+      color: 330000
+      description: UI related
+  - keyword: backend
     label:
-      name: Medium
-      color: 336699
-      description: Medium priority
-  - keyword: medium
+      name: 'Backend :wrench:'
+      color: 005500
+      description: Backend related
+  - keyword: security
     label:
-      name: Low
-      color: 336699
+      name: 'Security :lock_with_ink_pen:'
+      color: 000055
       description: Low priority
