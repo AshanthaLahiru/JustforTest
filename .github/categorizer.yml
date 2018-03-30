@@ -2,15 +2,15 @@
   - keyword: ui
     label:
       name: 'UI :desktop_computer:' 
-      color: 330000
+      color: cc0000
       description: UI related
   - keyword: backend
     label:
       name: 'Backend :wrench:'
-      color: 005500
+      color: F05500
       description: Backend related
   - keyword: security
     label:
       name: 'Security :lock_with_ink_pen:'
-      color: 000055
+      color: F000ee
       description: Low priority
