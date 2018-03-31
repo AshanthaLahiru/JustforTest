@@ -1,3 +1,5 @@
+ guideComment: Hello there, it will be helpful if you choose one of following categories.
+ errorComment: There is no such a category :worried:, please use a following category.
  categories:
   - keyword: ui
     label:
