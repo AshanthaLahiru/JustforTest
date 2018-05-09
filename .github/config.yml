@@ -15,7 +15,7 @@ response:
   buffer_time: 1 day
   
   #Calculation sample includes `open`, `closed` or `all` issues/pull requests
-  activities_state: open
+  activity_state: open
 
   #Limit for the calculation sample
   activities_count: 10
